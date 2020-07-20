@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tisa/precache-manifest.07905605132aeef703e0a553e04a0c65.js"
+  "/tisa/precache-manifest.ab1beb70f81c6ff34d5d09e9afa46c64.js"
 );
 
 self.addEventListener('message', (event) => {
