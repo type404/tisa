@@ -81,11 +81,10 @@ export default function ProfilePage(props) {
             </GridContainer>
             <div className={classes.description}>
               <p>
-                I'm recent Masters in IT graduate with a Bachelor's degree in
-                Economics and am passionate about technology and have worked
-                with Java, R, .Net Framework, in my degree. Currently working on
-                improving my React skills by working on a MERN stack
-                application.{" "}
+                I'm a recent Masters in IT graduate with a Bachelor's degree in
+                Economics. I have worked with Java, R, .Net Framework in my
+                degree. Currently working on improving my React skills by
+                working on a MERN stack application.{" "}
               </p>
             </div>
             <GridContainer justify="center">
