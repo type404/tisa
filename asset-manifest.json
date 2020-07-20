@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tisa/static/css/main.126c14d6.chunk.css",
+    "main.js": "/tisa/static/js/main.cf89bcbc.chunk.js",
+    "main.js.map": "/tisa/static/js/main.cf89bcbc.chunk.js.map",
+    "runtime-main.js": "/tisa/static/js/runtime-main.2cb8a6b6.js",
+    "runtime-main.js.map": "/tisa/static/js/runtime-main.2cb8a6b6.js.map",
+    "static/js/2.00aedd60.chunk.js": "/tisa/static/js/2.00aedd60.chunk.js",
+    "static/js/2.00aedd60.chunk.js.map": "/tisa/static/js/2.00aedd60.chunk.js.map",
+    "index.html": "/tisa/index.html",
+    "precache-manifest.8da4b6b9b4131b5594d2bb9925fe01c1.js": "/tisa/precache-manifest.8da4b6b9b4131b5594d2bb9925fe01c1.js",
+    "service-worker.js": "/tisa/service-worker.js",
+    "static/css/main.126c14d6.chunk.css.map": "/tisa/static/css/main.126c14d6.chunk.css.map",
+    "static/js/2.00aedd60.chunk.js.LICENSE.txt": "/tisa/static/js/2.00aedd60.chunk.js.LICENSE.txt",
+    "static/media/profile-bg.jpg": "/tisa/static/media/profile-bg.b94bf7c8.jpg",
+    "static/media/tisa.jpg": "/tisa/static/media/tisa.dc087e6f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cb8a6b6.js",
+    "static/js/2.00aedd60.chunk.js",
+    "static/css/main.126c14d6.chunk.css",
+    "static/js/main.cf89bcbc.chunk.js"
+  ]
+}
