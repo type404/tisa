@@ -65,16 +65,6 @@ export default function ProfilePage(props) {
                       Hey! I'm Tisa! <h6>Pronounced: /Tisha/</h6>
                     </h3>
                     <h5>SOFTWARE DEVELOPER</h5>
-                    <h6>
-                      <a
-                        href="public\Tisa Majumder_Resume.pdf"
-                        className={classes.block}
-                        target="_blank"
-                        download
-                      >
-                        Download my Resume
-                      </a>
-                    </h6>
                   </div>
                 </div>
               </GridItem>
@@ -214,7 +204,7 @@ export default function ProfilePage(props) {
                       tabContent: (
                         <span>
                           <p>
-                            <a href="https://github.com/type404/">
+                            <a href="https://github.com/type404/MelbBiz">
                               {" "}
                               MERN Application
                             </a>
