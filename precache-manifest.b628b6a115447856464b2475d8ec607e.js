@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "359981283652111ce491b71fd29d8179",
+    "revision": "4a8953024661b848903184554483b0d2",
     "url": "/tisa/index.html"
   },
   {
-    "revision": "887c7c264004e828ca04",
+    "revision": "7b3f7e799a5d4551024c",
     "url": "/tisa/static/css/main.126c14d6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tisa/static/js/2.00aedd60.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "887c7c264004e828ca04",
-    "url": "/tisa/static/js/main.a996778c.chunk.js"
+    "revision": "7b3f7e799a5d4551024c",
+    "url": "/tisa/static/js/main.50a9b035.chunk.js"
   },
   {
     "revision": "55615a85b2b6a65ce16d",
